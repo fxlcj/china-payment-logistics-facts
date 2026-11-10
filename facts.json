@@ -1,0 +1,325 @@
+{
+  "dataset": "China Payment, Parcel & Security Rules",
+  "publisher": "Jiu's Sharing Station (jiunotes.top)",
+  "homepage": "https://jiunotes.top/en/life/",
+  "version": "2026.11",
+  "updated": "2026-11-10",
+  "license": "CC BY 4.0",
+  "citation": "Jiu's Sharing Station, \"China Payment, Parcel & Security Rules\", checked 2026-11-10, https://jiunotes.top/en/life/",
+  "note": "Every entry carries the official source that states it and the date it was last checked. Rules and figures change without announcement; compare checked_on against your travel date.",
+  "count": 24,
+  "facts": [
+    {
+      "id": 1,
+      "topic": "payment",
+      "claim_en": "Static QR-code payment: a single customer's bank accounts and payment accounts combined are capped at 500 CNY per day",
+      "figure": "500 CNY/day",
+      "source": {
+        "name": "中国人民银行《条码支付业务规范（试行）》",
+        "url": "https://www.pbc.gov.cn/eportal/fileDir/tiaofasi/resource/cms/2018/07/2018073015043218970.pdf"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 2,
+      "topic": "payment",
+      "claim_en": "QR-code payment verified with fewer than two authentication factors: capped at 1000 CNY per day",
+      "figure": "1000 CNY/day",
+      "source": {
+        "name": "中国人民银行《条码支付业务规范（试行）》",
+        "url": "https://www.pbc.gov.cn/eportal/fileDir/tiaofasi/resource/cms/2018/07/2018073015043218970.pdf"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 3,
+      "topic": "payment",
+      "claim_en": "QR-code payment verified with two or more factors (no digital certificate or e-signature): capped at 5000 CNY per day",
+      "figure": "5000 CNY/day",
+      "source": {
+        "name": "中国人民银行《条码支付业务规范（试行）》",
+        "url": "https://www.pbc.gov.cn/eportal/fileDir/tiaofasi/resource/cms/2018/07/2018073015043218970.pdf"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 4,
+      "topic": "payment",
+      "claim_en": "RMB cash is the most basic means of payment in China; no unit or individual may refuse it",
+      "figure": "not refusable",
+      "source": {
+        "name": "中国人民银行公告〔2020〕第18号",
+        "url": "https://www.pbc.gov.cn/zhengwugongkai/4081330/4406346/4700569/4153528/index.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 5,
+      "topic": "payment",
+      "claim_en": "WeChat Pay with a foreign card: 6500 CNY per transaction, 50000 CNY per month, 65000 CNY per year",
+      "figure": "6500 / 50000 / 65000 CNY",
+      "source": {
+        "name": "腾讯官方客服·微信支付外卡绑定和使用指南",
+        "url": "https://kf.qq.com/touch/wxappfaq/230725qQ3YnA230725B3i2ue.html?platform=15"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 6,
+      "topic": "payment",
+      "claim_en": "WeChat Pay foreign-card transaction fee: free up to 200 CNY per transaction, 3% above 200 CNY",
+      "figure": "free <=200 CNY; 3% above",
+      "source": {
+        "name": "腾讯官方客服·微信支付外卡绑定和使用指南",
+        "url": "https://kf.qq.com/touch/wxappfaq/230725qQ3YnA230725B3i2ue.html?platform=15"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 7,
+      "topic": "payment",
+      "claim_en": "Alipay with a foreign card: 3000 CNY per transaction, 50000 CNY per month, 60000 CNY per year",
+      "figure": "3000 / 50000 / 60000 CNY",
+      "source": {
+        "name": "中国民航网·境外旅客支付问答（据支付宝官方外卡指引）",
+        "url": "http://caacnews.com.cn/1/tbtj_/202405/t20240522_1378432.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 8,
+      "topic": "payment",
+      "claim_en": "Foreign-card cash withdrawal at an ATM in China: no more than 3000 CNY per transaction",
+      "figure": "3000 CNY/withdrawal",
+      "source": {
+        "name": "中国民航网·境外旅客支付问答（据支付宝官方外卡指引）",
+        "url": "http://caacnews.com.cn/1/tbtj_/202405/t20240522_1378432.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 9,
+      "topic": "shipping",
+      "claim_en": "China's prohibited-items list for postal and express shipments has 19 categories",
+      "figure": "19 categories",
+      "source": {
+        "name": "国家邮政局《禁止寄递物品指导目录》",
+        "url": "https://www.spb.gov.cn/gjyzj/c100015/c100017/201702/b4146ed15cf54a24920bb01aca9b358f.shtml"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 10,
+      "topic": "shipping",
+      "claim_en": "Real-name registration for parcels: senders must show a valid ID; a foreign citizen's passport is accepted",
+      "figure": "passport accepted",
+      "source": {
+        "name": "《邮件快件实名收寄管理办法》",
+        "url": "https://www.gov.cn/zhengce/2018-10/22/content_5718100.htm"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 11,
+      "topic": "shipping",
+      "claim_en": "Express companies must deliver to the agreed address, recipient or designated recipient, and tell them to inspect in person",
+      "figure": "in-person inspection",
+      "source": {
+        "name": "《快递暂行条例》（2019 修订）",
+        "url": "https://www.gov.cn/gongbao/content/2019/content_5468949.htm"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 12,
+      "topic": "shipping",
+      "claim_en": "Without the user's consent, a courier may not confirm receipt on their behalf or drop the parcel into a smart locker or station box (fines up to 30000 CNY)",
+      "figure": "no auto-confirm; no locker drop",
+      "source": {
+        "name": "交通运输部《快递市场管理办法》2023年第22号",
+        "url": "https://xxgk.mot.gov.cn/jigou/fgs/202401/P020240104504317085126.pdf"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 13,
+      "topic": "shipping",
+      "claim_en": "Senders must truthfully state the name, nature and quantity of the item on the waybill",
+      "figure": "state item info",
+      "source": {
+        "name": "《快递暂行条例》（2019 修订）",
+        "url": "https://www.gov.cn/gongbao/content/2019/content_5468949.htm"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 14,
+      "topic": "security",
+      "claim_en": "Power banks and lithium batteries are banned from checked luggage; up to 100 Wh may be carried on board, 100-160 Wh needs airline approval (max 2 pieces), above 160 Wh is banned",
+      "figure": "<=100Wh carry-on; >160Wh banned",
+      "source": {
+        "name": "中国民用航空局·航空旅行常识",
+        "url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 15,
+      "topic": "security",
+      "claim_en": "Cigarette lighters, matches and other ignition sources are banned from both carry-on and checked luggage on flights",
+      "figure": "banned both",
+      "source": {
+        "name": "中国民用航空局·航空旅行常识",
+        "url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 16,
+      "topic": "security",
+      "claim_en": "Alcoholic drinks with an alcohol content above 70% by volume are banned from air transport",
+      "figure": ">70% ABV banned",
+      "source": {
+        "name": "中国民用航空局·航空旅行常识",
+        "url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 17,
+      "topic": "security",
+      "claim_en": "From 28 June 2025, power banks without a clear CCC mark, or with an unclear or recalled mark, are banned on domestic flights",
+      "figure": "CCC mark required",
+      "source": {
+        "name": "中国民航网（民航局通知，首都机场落实）",
+        "url": "http://caacnews.com.cn/1/5/202507/t20250703_1388595.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 18,
+      "topic": "telecom",
+      "claim_en": "China SIM/phone real-name registration: network entry requires a valid ID; a foreign citizen's passport is accepted",
+      "figure": "passport accepted",
+      "source": {
+        "name": "《电话用户真实身份信息登记规定》（工信部令第25号）",
+        "url": "https://www.gov.cn/zhengce/2022-08/23/content_5722716.htm"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 19,
+      "topic": "shopping",
+      "claim_en": "For online, phone and mail-order purchases, the consumer may return within 7 days of receiving the item without giving a reason",
+      "figure": "7 days, no reason",
+      "source": {
+        "name": "《中华人民共和国消费者权益保护法》第二十五条",
+        "url": "http://npc.gov.cn/zgrdw/npc/xinwen/2013-10/26/content_1811773.htm"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "official source direct"
+    },
+    {
+      "id": 20,
+      "topic": "online_shopping",
+      "claim_en": "Online shopping users in China reached 974 million by December 2024, 87.9% of all internet users",
+      "figure": "974M / 87.9%",
+      "source": {
+        "name": "中国互联网络信息中心（CNNIC）第55次报告",
+        "url": "https://www.cnnic.cn/n4/2025/0117/c88-11229.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "site article external link"
+    },
+    {
+      "id": 21,
+      "topic": "online_shopping",
+      "claim_en": "Online travel booking users in China reached 548 million by December 2024, 49.5% of internet users",
+      "figure": "548M / 49.5%",
+      "source": {
+        "name": "中国互联网络信息中心（CNNIC）第55次报告",
+        "url": "https://www.cnnic.cn/n4/2025/0117/c88-11229.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "site article external link"
+    },
+    {
+      "id": 22,
+      "topic": "online_shopping",
+      "claim_en": "Food-delivery drone routes in China exceeded 53 by the end of 2024 (more than 50)",
+      "figure": "53+ routes",
+      "source": {
+        "name": "中国互联网络信息中心（CNNIC）第55次报告",
+        "url": "https://www.cnnic.cn/n4/2025/0117/c88-11229.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "site FAQ figure"
+    },
+    {
+      "id": 23,
+      "topic": "connectivity",
+      "claim_en": "China's internet users reached 1.108 billion by December 2024, a 78.6% penetration rate",
+      "figure": "1.108B / 78.6%",
+      "source": {
+        "name": "中国互联网络信息中心（CNNIC）第55次报告",
+        "url": "https://www.cnnic.cn/n4/2025/0117/c88-11229.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "site article external link"
+    },
+    {
+      "id": 24,
+      "topic": "connectivity",
+      "claim_en": "5G base stations built in China: 4.191 million by November 2024",
+      "figure": "4.191M stations",
+      "source": {
+        "name": "中国互联网络信息中心（CNNIC）第55次报告",
+        "url": "https://www.cnnic.cn/n4/2025/0117/c88-11229.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-10",
+      "origin": "site article external link"
+    }
+  ]
+}
