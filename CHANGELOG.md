@@ -3,6 +3,13 @@
 Each entry records what changed and the date the official source was re-checked.
 A figure never changes without its `checked_on` date changing with it.
 
+## 2026-11-11
+
+- Quality revert: the 08:55 auto-sync added 1 editorial filler sentence
+  ("For the wider picture, the National Bureau of Statistics publishes...")
+  with no concrete figure, sourced from a section landing page rather than a
+  deep link. Reverted; repo back at 24 entries. Net 0.
+
 ## 2026.11 — 2026-11-10
 
 - Initial public dataset: 24 verified entries across 6 topics — QR-code payment
