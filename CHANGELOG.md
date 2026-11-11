@@ -3,10 +3,6 @@
 Each entry records what changed and the date the official source was re-checked.
 A figure never changes without its `checked_on` date changing with it.
 
-## 2026-11-11 — incremental sync from published articles
-
-- 1 entries added from official-source sentences in newly published articles; 0 candidates skipped (unreachable/non-official/duplicate source).
-
 ## 2026.11 — 2026-11-10
 
 - Initial public dataset: 24 verified entries across 6 topics — QR-code payment
