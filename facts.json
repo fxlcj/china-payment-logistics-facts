@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/en/life/",
   "version": "2026.11",
-  "updated": "2026-11-11",
+  "updated": "2026-11-14",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Payment, Parcel & Security Rules\", checked 2026-11-10, https://jiunotes.top/en/life/",
   "note": "Every entry carries the official source that states it and the date it was last checked. Rules and figures change without announcement; compare checked_on against your travel date.",
-  "count": 32,
+  "count": 70,
   "facts": [
     {
       "id": 1,
@@ -424,6 +424,614 @@
       "checked_on": "2026-11-11",
       "recheck_by": "2027-02-09",
       "origin": "official source direct"
+    },
+    {
+      "id": 33,
+      "topic": "practical",
+      "claim_en": "China's emergency numbers are 110 (police), 119 (fire), 120 (ambulance) and 122 (traffic accidents).",
+      "claim_zh": "中国常用应急号码：报警求助 110、火警 119、医疗救护 120、交通事故 122。",
+      "value": "110 / 119 / 120 / 122",
+      "unit": "emergency numbers",
+      "figure": "110 / 119 / 120 / 122 emergency numbers",
+      "source": {
+        "name": "The State Council of China (中国政府网)",
+        "url": "https://www.gov.cn/ztzl/yjzn/content_562406.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-11-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 34,
+      "topic": "practical",
+      "claim_en": "China uses a single time zone nationwide — China Standard Time (UTC+8), also known as Beijing Time.",
+      "claim_zh": "中国全国统一使用东八区时间（UTC+8），即北京时间。",
+      "value": "UTC+8",
+      "unit": "single national time zone",
+      "figure": "UTC+8 single national time zone",
+      "source": {
+        "name": "China Services Info (中国日报/中国网)",
+        "url": "https://www.chinaservicesinfo.com/s/202508/13/WS689c3056498edec913ce09c6/does-china-have-multiple-time-zones-like-the-united-states.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-11-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 35,
+      "topic": "practical",
+      "claim_en": "China's mains electricity is 220V at 50Hz.",
+      "claim_zh": "中国民用电为 220 伏、50 赫兹。",
+      "value": "220 V / 50 Hz",
+      "unit": "mains electricity",
+      "figure": "220 V / 50 Hz mains electricity",
+      "source": {
+        "name": "China.org.cn (中国网)",
+        "url": "http://www.china.org.cn/archive/2007-04/02/content_1205725.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-11-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 36,
+      "topic": "travel_cost",
+      "claim_en": "Air passengers flying domestic routes in China pay a CNY 50 civil aviation development fund per trip; international and regional (Hong Kong/Macao/Taiwan) departures pay CNY 90, which includes a CNY 20 tourism development fund.",
+      "claim_zh": "在中国境内乘机，国内航班每人次缴民航发展基金 50 元；国际及地区（港澳台）航班出境每人次 90 元（其中含旅游发展基金 20 元）。",
+      "value": "50 / 90",
+      "unit": "CNY per passenger",
+      "figure": "50 / 90 CNY per passenger",
+      "source": {
+        "name": "Ministry of Finance via The State Council (中国政府网)",
+        "url": "https://www.gov.cn/gongbao/content/2012/content_2182764.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 37,
+      "topic": "travel_cost",
+      "claim_en": "The civil aviation development fund is waived for children aged 12 and under, diplomatic-passport holders departing on international flights, and passengers on domestic regional (feeder) flights.",
+      "claim_zh": "12 周岁及以下儿童、持外交护照乘坐国际及地区航班出境的旅客、乘坐国内支线航班的旅客，可免缴民航发展基金。",
+      "value": "exempt",
+      "unit": "passenger categories",
+      "figure": "exempt passenger categories",
+      "source": {
+        "name": "Ministry of Finance via The State Council (中国政府网)",
+        "url": "https://www.gov.cn/gongbao/content/2012/content_2182764.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 38,
+      "topic": "payment",
+      "claim_en": "Foreign cards bound to Alipay or WeChat Pay in China carry a per-transaction limit of USD 5,000 and an annual cumulative limit of USD 50,000 — raised from USD 1,000 and USD 10,000 in 2024 at the central bank's direction.",
+      "claim_zh": "境外银行卡绑定支付宝或微信支付后，单笔交易限额 5000 美元、年累计限额 5 万美元（2024 年由单笔 1000 美元、年累计 1 万美元提高）。",
+      "value": "5,000 / 50,000",
+      "unit": "USD per transaction / per year",
+      "figure": "5,000 / 50,000 USD per transaction / per year",
+      "source": {
+        "name": "People's Bank of China (中国人民银行)",
+        "url": "https://www.gov.cn/xinwen/jdzc/202403/content_6935621.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 39,
+      "topic": "payment",
+      "claim_en": "Foreign visitors can pay in China two ways — 'card-in, wallet-out' (bind an overseas bank card to Alipay/WeChat Pay) or 'wallet-in' (pay merchants directly with a home e-wallet app) — and cash is still accepted at 99.3% of businesses surveyed by the central bank.",
+      "claim_zh": "境外来华人员有两种移动支付方式：「外卡内绑」（境外银行卡绑支付宝/微信支付）与「外包内用」（用本国电子钱包 App 直接在境内商户付款）；同时现金兜底，央行暗访显示 99.3% 的经营主体支持现金支付。",
+      "value": "2 channels / 99.3%",
+      "unit": "payment channels / cash acceptance",
+      "figure": "2 channels / 99.3% payment channels / cash acceptance",
+      "source": {
+        "name": "People's Bank of China (中国人民银行)",
+        "url": "https://www.pbc.gov.cn/redianzhuanti/118742/5275415/5275421/5399879/index.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 40,
+      "topic": "hotel",
+      "claim_en": "China had 7,716 star-rated hotels at the end of 2024, with an average room rate of CNY 371.7 per night and an average occupancy of 49.2%.",
+      "claim_zh": "截至 2024 年末，全国共有星级饭店 7716 家，平均房价 371.7 元/间夜，平均出租率 49.2%。",
+      "value": "7,716 / CNY 371.7 / 49.2%",
+      "unit": "hotels / average rate / occupancy",
+      "figure": "7,716 / CNY 371.7 / 49.2% hotels / average rate / occupancy",
+      "source": {
+        "name": "Ministry of Culture and Tourism (文化和旅游部)",
+        "url": "https://zwgk.mct.gov.cn/zfxxgkml/tjxx/202505/t20250530_960335.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 41,
+      "topic": "driving",
+      "claim_en": "A temporary motor vehicle driving permit is issued by the vehicle management office: valid 3 months for short stays, extendable to 1 year if the stay exceeds 3 months. Visitors driving a rented Chinese car apply at the office in the city where the rental company is registered; those driving their own temporarily imported vehicle apply within 2 days of entry.",
+      "claim_zh": "临时机动车驾驶许可由车管所核发：短期停留有效期 3 个月，停居留超过 3 个月可延长至 1 年。驾驶租赁的中国机动车，向租车单位所在市车管所申领；驾驶自带临时入境车辆的，须于入境后 2 日内申领。",
+      "value": "3 months / 1 year",
+      "unit": "permit validity",
+      "figure": "3 months / 1 year permit validity",
+      "source": {
+        "name": "Ministry of Public Security — Provisions on Temporarily Entered Motor Vehicles and Drivers (Order No. 90)",
+        "url": "https://jajgs.jxzwfww.gov.cn/jxzw/bszn/index.do?flag=gj&itemCode=360881-000201027000-XK-065-02&webId=93"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 42,
+      "topic": "driving",
+      "claim_en": "Converting a foreign licence into a Chinese one requires passing the theory test (Subject 1) for small cars; bus, truck and trailer categories require Subjects 1, 2 and 3. Non-Chinese licences need a certified Chinese translation.",
+      "claim_zh": "境外驾照换领中国驾照：小型汽车需考科目一；大型客车、重型牵引挂车、城市公交车、中型客车、大型货车需考科目一、二、三。非中文驾照须附翻译机构或公证机构的中文译本。",
+      "value": "Subject 1",
+      "unit": "theory test",
+      "figure": "Subject 1 theory test",
+      "source": {
+        "name": "Provisions on the Application and Use of Motor Vehicle Driving Licences (MPS Order No. 162)",
+        "url": "https://www.fjsc.gov.cn/dictionary/entryDetail.shtml?id=430608247156260000&siteId=30128192028350000"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 43,
+      "topic": "customs",
+      "claim_en": "Duty-free allowance on entry to mainland China: 400 cigarettes, or 20 cigars, or 500 g of tobacco, plus 1.5 litres of alcoholic drinks above 12% ABV.",
+      "claim_zh": "入境中国大陆免税限量：香烟 400 支，或雪茄 20 支，或烟丝 500 克；12 度以上酒精饮料 1.5 升。",
+      "value": "400 cigarettes / 1.5 L",
+      "unit": "duty-free allowance",
+      "figure": "400 cigarettes / 1.5 L duty-free allowance",
+      "source": {
+        "name": "General Administration of Customs of China",
+        "url": "http://zxft.customs.gov.cn/online?i=992502"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 44,
+      "topic": "customs",
+      "claim_en": "Travellers arriving from Hong Kong or Macao get half the standard allowance: 200 cigarettes, or 10 cigars, or 250 g of tobacco, and 0.75 litres of alcohol above 12% ABV.",
+      "claim_zh": "自香港、澳门入境的旅客免税限量减半：香烟 200 支，或雪茄 10 支，或烟丝 250 克；12 度以上酒精饮料 0.75 升。",
+      "value": "200 cigarettes / 0.75 L",
+      "unit": "duty-free allowance (HK/Macao)",
+      "figure": "200 cigarettes / 0.75 L duty-free allowance (HK/Macao)",
+      "source": {
+        "name": "General Administration of Customs of China",
+        "url": "http://zxft.customs.gov.cn/online?i=992502"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 45,
+      "topic": "customs",
+      "claim_en": "Cash limits: each traveller may carry up to CNY 20,000 in renminbi; inbound foreign-currency cash above the equivalent of USD 5,000 must be declared in writing to customs.",
+      "claim_zh": "现金限额：每人每次出入境可携带人民币 20,000 元；入境携带外币现钞超过等值 5,000 美元须向海关书面申报。",
+      "value": "CNY 20,000 / USD 5,000",
+      "unit": "cash limits",
+      "figure": "CNY 20,000 / USD 5,000 cash limits",
+      "source": {
+        "name": "General Administration of Customs of China",
+        "url": "http://zxft.customs.gov.cn/online?i=992502"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 46,
+      "topic": "customs",
+      "claim_en": "Cross-border e-commerce retail imports are capped at CNY 5,000 per order and CNY 26,000 per person per year; the remaining quota can be checked on the customs website or the Zhangshang Haiguan mini program.",
+      "claim_zh": "跨境电商零售进口限额：单次 5,000 元、每人每年 26,000 元；剩余额度可在海关总署官网或「掌上海关」小程序查询。",
+      "value": "CNY 5,000 / 26,000",
+      "unit": "e-commerce quota",
+      "figure": "CNY 5,000 / 26,000 e-commerce quota",
+      "source": {
+        "name": "General Administration of Customs of China",
+        "url": "http://zxft.customs.gov.cn/online?i=992502"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 47,
+      "topic": "duty_free",
+      "claim_en": "Hainan island duty-free shopping: each departing traveller aged 16 or over gets a CNY 100,000 annual allowance with no limit on the number of purchases. It covers goods bought in duty-free shops or approved online channels and collected when leaving the island by air, train or ferry (not when leaving China).",
+      "claim_zh": "海南离岛免税：年满 16 周岁的离岛旅客每人每年免税购物额度 10 万元人民币、不限次数；在免税店或经批准的网上窗口购买，乘飞机、火车、轮船离岛（不离境）时提货。",
+      "value": "CNY 100,000",
+      "unit": "annual allowance",
+      "figure": "CNY 100,000 annual allowance",
+      "source": {
+        "name": "General Administration of Customs — Hainan duty-free supervision",
+        "url": "https://online.customs.gov.cn/treeGuide/?taskId=000629015000"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 48,
+      "topic": "duty_free",
+      "claim_en": "From 1 November 2025 Hainan expanded its duty-free range to 47 categories and allowed domestic goods into duty-free shops with tax refunds; island residents with a departure record that calendar year can buy and take goods immediately in store, still within the CNY 100,000 annual cap.",
+      "claim_zh": "2025 年 11 月 1 日起，海南离岛免税商品扩至 47 大类，并允许国产商品进店销售享退税；当年有离岛记录的岛内居民可「即购即提」不限次数，但仍受每人每年 10 万元额度限制。",
+      "value": "47",
+      "unit": "product categories",
+      "figure": "47 product categories",
+      "source": {
+        "name": "Hainan Provincial Tax Service, State Taxation Administration",
+        "url": "https://hainan.chinatax.gov.cn/ssxc_1_7/20164146.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 49,
+      "topic": "accommodation",
+      "claim_en": "Hotels register foreign guests automatically. Anyone staying anywhere other than a hotel must register with the local police within 24 hours of arrival — done by the guest or by the host. Failure to register brings a warning, and in serious cases a fine of CNY 1,000-5,000.",
+      "claim_zh": "外国人在旅馆住宿由旅馆自动办理登记；在旅馆以外的住所（亲友家、租住房屋、自有住所）住宿，须在入住后 24 小时内由本人或留宿人向居住地公安机关登记。未按规定办理的，给予警告；情节严重的处 1,000-5,000 元罚款。",
+      "value": "24 hours",
+      "unit": "registration deadline",
+      "figure": "24 hours registration deadline",
+      "source": {
+        "name": "National Immigration Administration — Announcement No. 7 of 2026 (Exit and Entry Administration Law, Art. 39)",
+        "url": "https://www.nia.gov.cn/n897453/c1806111/content.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 50,
+      "topic": "accommodation",
+      "claim_en": "Since 21 September 2026 foreign visitors can complete the non-hotel accommodation registration online — via the NIA service website (s.nia.gov.cn), the 12367 app, or the 12367 WeChat/Alipay mini program. Online registration has the same legal effect as registering at a police station; walk-in registration remains available.",
+      "claim_zh": "自 2026 年 9 月 21 日起，外国人旅馆以外住宿登记可在网上办理：国家移民管理局政务服务网站（s.nia.gov.cn）、「移民局12367」APP、微信或支付宝小程序。网上办理与现场办理具有同等效力，线下渠道继续保留。",
+      "value": "21 Sep 2026",
+      "unit": "online registration since",
+      "figure": "21 Sep 2026 online registration since",
+      "source": {
+        "name": "National Immigration Administration — Announcement No. 7 of 2026 (Exit and Entry Administration Law, Art. 39)",
+        "url": "https://www.nia.gov.cn/n897453/c1806111/content.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 51,
+      "topic": "practical",
+      "claim_en": "Since 28 June 2025 domestic flights in China ban power banks that have no CCC (3C) mark, an unclear CCC mark, or belong to a recalled model or batch. The rule applies to domestic flights only; camera and drone batteries are not affected.",
+      "claim_zh": "自 2025 年 6 月 28 日起，中国境内航班禁止携带没有 3C 标识、3C 标识不清晰、属被召回型号或批次的充电宝；该规定仅针对境内航班，相机电池和无人机电池不受影响。",
+      "value": "28 Jun 2025",
+      "unit": "CCC power bank rule since",
+      "figure": "28 Jun 2025 CCC power bank rule since",
+      "source": {
+        "name": "Civil Aviation Administration of China",
+        "url": "https://www.caac.gov.cn/English/News/202507/t20250709_227894.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 52,
+      "topic": "practical",
+      "claim_en": "Power bank capacity rules: they must travel in hand luggage, never checked baggage. Up to 100 Wh needs no approval; 100-160 Wh needs airline approval and at most two units; above 160 Wh is banned. Using a power bank in flight is not allowed.",
+      "claim_zh": "充电宝容量规定：只能随身携带或放手提行李，严禁托运；额定能量不超过 100Wh 无需批准；100-160Wh 须经航空公司批准且最多 2 个；超过 160Wh 严禁携带；飞行途中不得使用充电宝充电。",
+      "value": "100 Wh / 160 Wh",
+      "unit": "capacity limits",
+      "figure": "100 Wh / 160 Wh capacity limits",
+      "source": {
+        "name": "Civil Aviation Administration of China",
+        "url": "https://www.caac.gov.cn/English/News/202507/t20250709_227894.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 53,
+      "topic": "telecom",
+      "claim_en": "China requires real-name registration for all phone numbers. Foreign visitors can buy a SIM card with their passport, but only at staffed carrier-owned stores — airport outlets are the easiest option; convenience stores do not sell SIM cards. Short-term tourist SIMs (7, 15 or 30 days) are offered in places such as Shanghai and Hainan.",
+      "claim_zh": "中国实行电话用户实名登记制度。外国人可凭护照办理手机卡，但须到运营商自营营业厅（机场网点最方便），便利店不售卡；上海、海南等地提供 7/15/30 天短期旅游卡，到期自动注销。",
+      "value": "passport",
+      "unit": "ID accepted for SIM",
+      "figure": "passport ID accepted for SIM",
+      "source": {
+        "name": "Regulations on Real-Name Registration of Telephone Users, Ministry of Industry and Information Technology",
+        "url": "https://www.miit.gov.cn/zcfg/xxtxl/art/2013/art_bb45cac6192b4d00980734c39154f91d.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 54,
+      "topic": "practical",
+      "claim_en": "Beijing was the first mainland city to let foreign cards tap straight through the subway gates. Holders of an overseas-issued Mastercard or Visa can ride Beijing's 27 urban rail lines and the S2 suburban railway line without buying a ticket or installing an app. Elsewhere you buy a single-ride card at a window or machine, or use the Alipay transit QR code.",
+      "claim_zh": "北京是中国内地首个支持境外银行卡直接拍卡过地铁闸机的城市：持境外发行的 Mastercard 或 Visa，可乘坐北京 27 条城市轨道交通线路及市郊铁路 S2 线，无需购票或下载 APP。其他城市多在窗口/自助机买单程卡，或用支付宝乘车码。",
+      "value": "27 lines + S2 tap-to-ride",
+      "unit": "metro lines",
+      "figure": "27 lines + S2 tap-to-ride metro lines",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 55,
+      "topic": "driving",
+      "claim_en": "To get a temporary Chinese driving permit, take your passport, your overseas licence with a Chinese translation, and a recent one-inch colour photo (bareheaded, front-facing, white background) to a public security traffic management service hall. Short-stay visitors get 3 months; if the stay exceeds 3 months it can be extended to no more than 1 year. A permit can be used for multiple entries within its validity without reapplying.",
+      "claim_zh": "申领中国临时驾驶许可：携带护照、境外驾驶证及其中文翻译文本、近期一寸彩色白底免冠正面照片，到公安交管服务大厅办理。入境短期停留者有效期 3 个月；停居留超过 3 个月可延长至不超过 1 年。有效期内可多次入境使用，无需重新申请。",
+      "value": "3 months / 1 year permit",
+      "unit": "validity",
+      "figure": "3 months / 1 year permit validity",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 56,
+      "topic": "hotel",
+      "claim_en": "Hotels register foreign guests at the front desk against a passport or Foreign Permanent Resident ID. At check-out you can pay cash in RMB, by bank card, by Alipay or by WeChat Pay — but ask first whether the property takes Mastercard or Visa, because acceptance of international cards varies. Some hotels also accept Apple Pay and PayPal.",
+      "claim_zh": "酒店前台凭护照或外国人永久居留身份证为外籍客人办理登记。到店支付可选人民币现金、银行卡、支付宝、微信；但**须先问是否收 Mastercard / Visa**——各酒店受理国际卡情况不一。部分酒店支持 Apple Pay、PayPal。",
+      "value": "passport registration + ask about intl cards",
+      "unit": "hotel check-in",
+      "figure": "passport registration + ask about intl cards hotel check-in",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 57,
+      "topic": "work",
+      "claim_en": "Foreigners working in China need a work permit: short-term workers staying up to 30 days work on the permit’s stated period under a Z visa, while those staying over 30 days get a work-type residence permit valid 90 days.",
+      "claim_zh": "外国人在中国境内工作应取得外国人工作许可；工作期限不超过30日的短期工作人员按许可注明的期限并在Z字签证停留期停留，超过30日的可办理停留期90日的工作类居留证件。",
+      "value": "30 / 90",
+      "unit": "days (short-term / residence permit)",
+      "figure": "30 / 90 days (short-term / residence permit)",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 58,
+      "topic": "work",
+      "claim_en": "A Chinese work permit should be renewed by the employer at least 30 days before expiry; if personal details (name, passport number, position) change, an amendment must be filed within 10 working days.",
+      "claim_zh": "工作许可有效期届满30日前由用人单位申请延期；个人信息（姓名、护照号、职务）变更的，应自变更之日起10个工作日内提出变更申请。",
+      "value": "30 / 10",
+      "unit": "days / working days",
+      "figure": "30 / 10 days / working days",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 59,
+      "topic": "practical",
+      "claim_en": "If you lose your passport in China, report the loss immediately to the police station where it was lost; for immigration or entry-exit questions call the 12367 service hotline.",
+      "claim_zh": "护照遗失时请立即向遗失地派出所报失；咨询移民或出入境事务请拨打12367服务热线。",
+      "value": "12367",
+      "unit": "immigration service hotline",
+      "figure": "12367 immigration service hotline",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 60,
+      "topic": "payment",
+      "claim_en": "Bank branches in China provide RMB small-change exchange, so you can swap for loose change at the counter or self-service machine, or buy a pre-packed \"change wallet\" of mixed denominations at the counter.",
+      "claim_zh": "商业银行网点提供人民币现金零钞兑换服务，可在柜台、自助设备直接兑换零钞，或在柜台等值兑换已封装好的含不同面额的零钱包产品。",
+      "value": "RMB small change",
+      "unit": "bank branch counter / self-service machine",
+      "figure": "RMB small change bank branch counter / self-service machine",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 61,
+      "topic": "payment",
+      "claim_en": "After arrival, foreign currency can be exchanged at airports, land ports and seaports of entry, at bank branches and exchange counters marked with a foreign-exchange sign, and via ATMs using international cards to withdraw RMB.",
+      "claim_zh": "入境后可在国际机场、陆路口岸、港口等入境口岸所在地，以及标有个人本外币兑换标识的商业银行网点柜台、外币兑换机构、自助兑换机兑换，也可通过ATM机使用国际银行卡提取人民币现钞。",
+      "value": "airports / ports / bank branches / ATMs",
+      "unit": "exchange channels",
+      "figure": "airports / ports / bank branches / ATMs exchange channels",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 62,
+      "topic": "practical",
+      "claim_en": "China’s metro system serves 55 cities; foreigners can buy a single-trip ticket at the station window or ticket machine, or get a stored-value transit card with a passport, paying by domestic or overseas card, RMB cash or mobile pay.",
+      "claim_zh": "中国共有55个城市开通地铁；外国乘客可在地铁站售票窗口或自助售票机购买单次票，持护照可办一卡通；购卡可使用境内外银行卡、人民币现金、移动支付APP。",
+      "value": "55",
+      "unit": "cities with metro",
+      "figure": "55 cities with metro",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 63,
+      "topic": "practical",
+      "claim_en": "On city buses, foreigners can pay with RMB cash (have change ready), buy a bus card at a bus company outlet with a passport, or use Alipay; some transport apps also support a QR boarding code.",
+      "claim_zh": "乘坐公交可选择支付人民币现金（建议备好零钱）、持护照到公交公司营业网点办公交卡、使用支付宝；部分APP支持乘车码扫码上车。",
+      "value": "cash / bus card / Alipay",
+      "unit": "bus payment methods",
+      "figure": "cash / bus card / Alipay bus payment methods",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 64,
+      "topic": "driving",
+      "claim_en": "To rent a car in China, a foreign customer needs a passport or Foreign Permanent Residence ID, a valid Chinese driving licence and an international or domestic credit card; first-time renters should allow at least 1 working day for ID verification.",
+      "claim_zh": "外国客户租车需携带护照或外国人永久居留身份证、中国有效驾驶证、国际/国内信用卡；第一次租车需至少提前1个工作日核验身份证件信息。",
+      "value": "1",
+      "unit": "working day ID check (first rental)",
+      "figure": "1 working day ID check (first rental)",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 65,
+      "topic": "driving",
+      "claim_en": "A temporary Chinese driving permit is valid 3 months for a short stay, extendable up to 1 year if the stay exceeds 3 months, and can be used on multiple entries within its validity without re-applying.",
+      "claim_zh": "入境短期停留可申领有效期3个月的临时驾驶许可；停居留超过3个月的，有效期可延长至不超过1年；有效期内可多次入境使用，无需重新申请。",
+      "value": "up to 1 year",
+      "unit": "if stay > 3 months; multiple entries",
+      "figure": "up to 1 year if stay > 3 months; multiple entries",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 66,
+      "topic": "hotel",
+      "claim_en": "Foreign guests can book hotels via Trip.com international (site, app or Alipay mini-program TripHotels) paying by international card, and pay on arrival by RMB cash, bank card, Alipay or WeChat — some hotels also accept Apple Pay and PayPal, so check in advance.",
+      "claim_zh": "外国旅客可通过携程国际版Trip.com在线预订并支持国际银行卡支付；到店支付可选人民币现金、银行卡、支付宝、微信，部分酒店支持Apple Pay和PayPal，支付前请提前咨询。",
+      "value": "Trip.com + cash / card / Alipay / WeChat",
+      "unit": "hotel booking & payment",
+      "figure": "Trip.com + cash / card / Alipay / WeChat hotel booking & payment",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 67,
+      "topic": "tax",
+      "claim_en": "A foreigner is a Chinese tax resident if they have a domicile in China, or no domicile but stay 183 days or more cumulatively in a tax year; residents are taxed on worldwide income, non-residents only on China-source income.",
+      "claim_zh": "外国人士在中国境内有住所，或无住所而一个纳税年度内累计居住满183天的，为中国税收居民；居民从境内和境外取得所得均缴纳个税，非居民仅就境内所得缴纳。",
+      "value": "183",
+      "unit": "days -> tax resident",
+      "figure": "183 days -> tax resident",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 68,
+      "topic": "tax",
+      "claim_en": "Chinese tax residents with the four comprehensive incomes (wages, remuneration, author’s remuneration, royalties) must file an annual reconciliation from 1 March to 30 June of the following year; non-residents do not file a comprehensive reconciliation.",
+      "claim_zh": "中国税收居民的工资薪金、劳务报酬、稿酬、特许权使用费等四项综合所得，应在取得所得的次年3月1日至6月30日内办理汇算清缴；非居民个人不办理综合所得汇算清缴。",
+      "value": "Mar 1 - Jun 30",
+      "unit": "annual reconciliation window",
+      "figure": "Mar 1 - Jun 30 annual reconciliation window",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 69,
+      "topic": "tax",
+      "claim_en": "China’s network of double-taxation avoidance agreements covers 114 countries (regions); eligible foreigners may claim treaty benefits (reduced or exempt tax) on their own declaration, keeping supporting documents for inspection.",
+      "claim_zh": "中国的避免双重征税协定网络已覆盖114个国家（地区）；符合条件的外国人士可自行享受协定减税或免税待遇，有关资料留存备查。",
+      "value": "114",
+      "unit": "countries / regions in DTA network",
+      "figure": "114 countries / regions in DTA network",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 70,
+      "topic": "social_insurance",
+      "claim_en": "Foreigners working in China must join social insurance; the employer must register the employee within 30 days of obtaining the work documents, and contribution base and ratios match those of Chinese employees in the same locality.",
+      "claim_zh": "外国人在华工作应参加社会保险；用人单位应自办理工作证件之日起30日内为其办理社会保险登记，缴费基数、缴费比例与参保地中国籍参保人员一致。",
+      "value": "30",
+      "unit": "days for employer registration",
+      "figure": "30 days for employer registration",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
     }
   ]
 }
