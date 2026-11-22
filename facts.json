@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/en/life/",
   "version": "2026.11",
-  "updated": "2026-11-14",
+  "updated": "2026-11-23",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Payment, Parcel & Security Rules\", checked 2026-11-10, https://jiunotes.top/en/life/",
   "note": "Every entry carries the official source that states it and the date it was last checked. Rules and figures change without announcement; compare checked_on against your travel date.",
-  "count": 70,
+  "count": 72,
   "facts": [
     {
       "id": 1,
@@ -1032,6 +1032,40 @@
       "checked_on": "2026-11-13",
       "recheck_by": "2027-02-13",
       "added_from": "db-backfill"
+    },
+    {
+      "id": 71,
+      "topic": "work",
+      "claim_en": "A work-permit application requires a completed application form, work-experience proof, a certified highest-degree certificate or professional qualification, a criminal-record check, a medical examination, an employment contract or appointment letter, the applicant’s passport or travel document, a recent photo, documents for accompanying family members, and any other relevant material; the employer files online through the national HR social-service platform at 12333.gov.cn.",
+      "claim_zh": "申请工作许可需提交：完整的工作许可申请表、工作资历证明、经认证的最高学位（学历）证书或职业资格证明、无犯罪记录证明、体检证明、聘用合同或任职证明、护照或国际旅行证件、6个月内照片、随行家属材料及其他相关材料；由用人单位通过全国人社政务服务平台（12333.gov.cn）在线办理。",
+      "value": "10",
+      "unit": "required document categories",
+      "figure": "10 required document categories",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-22",
+      "recheck_by": "2027-02-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 277
+    },
+    {
+      "id": 72,
+      "topic": "hotel",
+      "claim_en": "China's star-rated hotels took CNY 155.73 billion in revenue in 2024, with an average occupancy rate of 49.2%.",
+      "claim_zh": "2024年全国星级饭店营业收入1557.3亿元，平均出租率49.2%。",
+      "value": "CNY 155.73 bn",
+      "unit": "2024 star-rated hotel revenue",
+      "figure": "CNY 155.73 bn 2024 star-rated hotel revenue",
+      "source": {
+        "name": "Ministry of Culture and Tourism — 2024 Culture and Tourism Development Statistical Bulletin (文化和旅游部《2024年文化和旅游发展统计公报》)",
+        "url": "https://zwgk.mct.gov.cn/zfxxgkml/tjxx/202505/t20250530_960335.html"
+      },
+      "checked_on": "2026-11-22",
+      "recheck_by": "2027-05-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 281
     }
   ]
 }
