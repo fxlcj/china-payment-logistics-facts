@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/en/life/",
   "version": "2026.11",
-  "updated": "2026-11-23",
+  "updated": "2026-11-26",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Payment, Parcel & Security Rules\", checked 2026-11-10, https://jiunotes.top/en/life/",
   "note": "Every entry carries the official source that states it and the date it was last checked. Rules and figures change without announcement; compare checked_on against your travel date.",
-  "count": 72,
+  "count": 82,
   "facts": [
     {
       "id": 1,
@@ -1066,6 +1066,176 @@
       "recheck_by": "2027-05-22",
       "added_from": "db-backfill",
       "db_fact_id": 281
+    },
+    {
+      "id": 73,
+      "topic": "telecom",
+      "claim_en": "Article 6 second paragraph: if a user entrusts someone else to open the line, the operator must see the valid documents of both the user and the person acting for them, and record both identities. Buying a SIM for a partner, a child or a colleague therefore requires bringing that person's passport to the counter.",
+      "claim_zh": "第25号令第六条第二款：用户委托他人办理入网手续的，经营者应当要求受托人出示用户和受托人的有效证件，并提供双方的真实身份信息。即代买手机卡须带本人与被代办人双方的护照。",
+      "value": "both documents",
+      "unit": "requirement when someone buys a SIM for another person",
+      "figure": "both documents requirement when someone buys a SIM for another person",
+      "source": {
+        "name": "工业和信息化部《电话用户真实身份信息登记规定》（工信部令第25号，2013-07-16 公布，2013-09-01 施行）",
+        "url": "https://www.miit.gov.cn/zcfg/xxtxl/art/2013/art_bb45cac6192b4d00980734c39154f91d.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 330
+    },
+    {
+      "id": 74,
+      "topic": "telecom",
+      "claim_en": "Article 9 requires the clerk to inspect the document and record four items: the type of document, the name, the number and the address shown on it. A passport carries no Chinese address, which is why counters ask for your hotel address to fill the address field.",
+      "claim_zh": "第25号令第九条：经营者应当查验用户证件，并如实登记证件类别以及证件上所记载的姓名（名称）、号码、住址信息。护照不含中国住址，故营业厅会要求填写在华住址（通常为酒店地址）。",
+      "value": "4 items",
+      "unit": "fields recorded at registration (type, name, number, address)",
+      "figure": "4 items fields recorded at registration (type, name, number, address)",
+      "source": {
+        "name": "工业和信息化部《电话用户真实身份信息登记规定》（工信部令第25号，2013-07-16 公布，2013-09-01 施行）",
+        "url": "https://www.miit.gov.cn/zcfg/xxtxl/art/2013/art_bb45cac6192b4d00980734c39154f91d.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 331
+    },
+    {
+      "id": 75,
+      "topic": "telecom",
+      "claim_en": "Article 10 is the hard limit: if the user refuses to show valid ID, refuses to give the recorded identity information, or uses someone else's, forged or altered document, the operator is forbidden to open the line at all.",
+      "claim_zh": "第25号令第十条：用户拒绝出示有效证件、拒绝提供证件所载身份信息、冒用他人证件或使用伪造变造证件的，经营者不得为其办理入网手续。",
+      "value": "refused",
+      "unit": "outcome when ID is refused, borrowed or forged",
+      "figure": "refused outcome when ID is refused, borrowed or forged",
+      "source": {
+        "name": "工业和信息化部《电话用户真实身份信息登记规定》（工信部令第25号，2013-07-16 公布，2013-09-01 施行）",
+        "url": "https://www.miit.gov.cn/zcfg/xxtxl/art/2013/art_bb45cac6192b4d00980734c39154f91d.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 332
+    },
+    {
+      "id": 76,
+      "topic": "telecom",
+      "claim_en": "The six-ministry notice of 2016 adds an on-site biometric step: when registering a new line, the carrier must verify the identity (ID reader, network check) and photograph the person at the counter and retain that photo.",
+      "claim_zh": "六部门 2016 年通告第三条：电信企业为新入网用户办理真实身份信息登记时，须通过证件识别设备、联网核验等验证身份，并现场拍摄和留存用户照片。",
+      "value": "photo retained",
+      "unit": "on-site photograph taken at registration",
+      "figure": "photo retained on-site photograph taken at registration",
+      "source": {
+        "name": "最高人民法院、最高人民检察院、公安部、工业和信息化部等六部门《关于防范和打击电信网络诈骗犯罪的通告》（2016-10-11 工信部网站发布）",
+        "url": "https://www.miit.gov.cn/jgsj/waj/gzdt/art/2020/art_655b0960224e4eab94e89526ba3e8fdd.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 333
+    },
+    {
+      "id": 77,
+      "topic": "telecom",
+      "claim_en": "Nanjing's inbound-visitor card (\"乐游卡\") is sold in three durations — 7, 15 and 30 days — and starts at 70 yuan.",
+      "claim_zh": "南京入境游客「乐游卡」提供 7 天、15 天、30 天三种时长选择，最低 70 元起。",
+      "value": "70",
+      "unit": "CNY, lowest price tier (Nanjing inbound visitor card)",
+      "figure": "70 CNY, lowest price tier (Nanjing inbound visitor card)",
+      "source": {
+        "name": "南京市人民政府《我市为入境游客打造“乐游卡”》（2025-06-11，来源：南京日报）",
+        "url": "https://www.nj.gov.cn/njxx/202506/t20250611_5582976.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-02-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 337
+    },
+    {
+      "id": 78,
+      "topic": "telecom",
+      "claim_en": "The same Nanjing card gives at least 30 GB of free data on activation, is opened with a passport or other entry document at Nanjing Mobile main stores, and can be arranged in advance through a travel agency for tour groups.",
+      "claim_zh": "南京「乐游卡」开卡即赠最低 30GB 免费流量，凭护照等入境证件在南京移动各大主营业厅办理，入境旅行团可经国际旅行社提前预约办理。",
+      "value": "30",
+      "unit": "GB free data on activation (Nanjing inbound visitor card)",
+      "figure": "30 GB free data on activation (Nanjing inbound visitor card)",
+      "source": {
+        "name": "南京市人民政府《我市为入境游客打造“乐游卡”》（2025-06-11，来源：南京日报）",
+        "url": "https://www.nj.gov.cn/njxx/202506/t20250611_5582976.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-02-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 338
+    },
+    {
+      "id": 79,
+      "topic": "telecom",
+      "claim_en": "State Council General Office document Guobanfa [2024] No. 10 instructs that telecom service for foreign visitors be improved, that the process for a foreign visitor to obtain a domestic mobile number be optimised, and that good international roaming service be provided.",
+      "claim_zh": "国办发〔2024〕10号要求「做好外籍来华人员通讯服务，优化外籍来华人员境内手机号码办理流程，为外籍来华人员提供良好的国际漫游服务」。",
+      "value": "policy",
+      "unit": "State Council directive on telecom service for foreign visitors",
+      "figure": "policy State Council directive on telecom service for foreign visitors",
+      "source": {
+        "name": "国务院办公厅《关于进一步优化支付服务提升支付便利性的意见》（国办发〔2024〕10号，2024-03-01）",
+        "url": "https://www.gov.cn/zhengce/content/202403/content_6937623.htm"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 340
+    },
+    {
+      "id": 80,
+      "topic": "payment",
+      "claim_en": "In the first half of 2024 the People Bank of China imposed administrative penalties on 7 prominent cases of refusing RMB cash, and issued criticism and corrective orders to 57 minor first-time cases.",
+      "claim_zh": "2024年上半年，人民银行对7起公众关注高、影响范围大的拒收人民币现金违法案件实施行政处罚，并对57起情节轻微、初次违法的主体批评教育、督促整改。",
+      "value": "7 penalties / 57 corrections",
+      "unit": "cases",
+      "figure": "7 penalties / 57 corrections cases",
+      "source": {
+        "name": "中国人民银行·推动支付行业高质量发展媒体吹风会（2024-07-26，pbc.gov.cn）",
+        "url": "https://www.pbc.gov.cn/rmyh/3963412/3963426/2025092319241233397/index.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 345
+    },
+    {
+      "id": 81,
+      "topic": "payment",
+      "claim_en": "A 2024 PBC survey of about 94,000 merchants found 99.3% accepted cash; in 17 key cities over 3,000 merchants were checked, 99.4% accepted cash and 91.9% kept enough small change.",
+      "claim_zh": "人民银行对全国约9.4万家经营主体暗访显示支持现金支付占比99.3%；专班暗访17个重点城市3000余家主体，支持现金99.4%、零钱备付充足91.9%。",
+      "value": "99.3% / 99.4% / 91.9%",
+      "unit": "percent",
+      "figure": "99.3% / 99.4% / 91.9% percent",
+      "source": {
+        "name": "中国人民银行·推动支付行业高质量发展媒体吹风会（2024-07-26，pbc.gov.cn）",
+        "url": "https://www.pbc.gov.cn/rmyh/3963412/3963426/2025092319241233397/index.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 346
+    },
+    {
+      "id": 82,
+      "topic": "payment",
+      "claim_en": "As of end-June 2024 China had 3,563 currency exchange agencies and 383 self-service exchange machines, up 92% and 62% from end-2023; 74 international airports hosted 190 exchange facilities.",
+      "claim_zh": "截至2024年6月末，全国外币代兑机构3563个、自助兑换机383台，较2023年末分别增加92%和62%；74个国际机场布设兑换设施190个。",
+      "value": "3563 agencies / 383 machines",
+      "unit": "count",
+      "figure": "3563 agencies / 383 machines count",
+      "source": {
+        "name": "中国人民银行·推动支付行业高质量发展媒体吹风会（2024-07-26，pbc.gov.cn）",
+        "url": "https://www.pbc.gov.cn/rmyh/3963412/3963426/2025092319241233397/index.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 347
     }
   ]
 }
