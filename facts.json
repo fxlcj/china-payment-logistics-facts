@@ -7,7 +7,7 @@
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Payment, Parcel & Security Rules\", checked 2026-11-10, https://jiunotes.top/en/life/",
   "note": "Every entry carries the official source that states it and the date it was last checked. Rules and figures change without announcement; compare checked_on against your travel date.",
-  "count": 82,
+  "count": 83,
   "facts": [
     {
       "id": 1,
@@ -1236,6 +1236,22 @@
       "recheck_by": "2027-05-25",
       "added_from": "db-backfill",
       "db_fact_id": 347
+    },
+    {
+      "id": 83,
+      "topic": "life_rules",
+      "claim_en": "For the departure tax refund rules, including the CNY 20,000 cash line, the CNY 200 minimum and the 90-day window, read the Jiangxi tax authority’s departure-refund Q&A.",
+      "claim_zh": "",
+      "value": "20,000",
+      "unit": "",
+      "figure": "20,000",
+      "source": {
+        "name": "jiangxi.chinatax.gov.cn",
+        "url": "https://jiangxi.chinatax.gov.cn/art/2026/2/25/art_31172_1666768.html"
+      },
+      "checked_on": "2026-11-26",
+      "recheck_by": "2027-02-24",
+      "added_from": "article-sync"
     }
   ]
 }

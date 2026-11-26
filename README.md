@@ -4,7 +4,7 @@ A reference for the everyday-China rules foreign visitors most often get wrong: 
 
 Every figure below carries **the official source that states it** and **the date it was last checked**. If you copy a number anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 24 entries, machine-readable
+- `facts.json` — the same 83 entries, machine-readable
 - The parent guide for these rules: <https://jiunotes.top/en/life/>
 - How entries are kept current: see [Maintenance](#maintenance)
 
@@ -104,7 +104,7 @@ The rules themselves are not secret — the central bank, the postal service, th
 | 80 | `payment` | In the first half of 2024 the People Bank of China imposed administrative penalties on 7 prominent cases of refusing RMB cash, and issued criticism and corrective orders to 57 minor first-time cases. | 7 penalties / 57 corrections cases | [中国人民银行·推动支付行业高质量发展媒体吹风会（2024-07-26，pbc.gov.cn）](https://www.pbc.gov.cn/rmyh/3963412/3963426/2025092319241233397/index.html) | 2026-11-25 |
 | 81 | `payment` | A 2024 PBC survey of about 94,000 merchants found 99.3% accepted cash; in 17 key cities over 3,000 merchants were checked, 99.4% accepted cash and 91.9% kept enough small change. | 99.3% / 99.4% / 91.9% percent | [中国人民银行·推动支付行业高质量发展媒体吹风会（2024-07-26，pbc.gov.cn）](https://www.pbc.gov.cn/rmyh/3963412/3963426/2025092319241233397/index.html) | 2026-11-25 |
 | 82 | `payment` | As of end-June 2024 China had 3,563 currency exchange agencies and 383 self-service exchange machines, up 92% and 62% from end-2023; 74 international airports hosted 190 exchange facilities. | 3563 agencies / 383 machines count | [中国人民银行·推动支付行业高质量发展媒体吹风会（2024-07-26，pbc.gov.cn）](https://www.pbc.gov.cn/rmyh/3963412/3963426/2025092319241233397/index.html) | 2026-11-25 |
-
+| 83 | `life_rules` | For the departure tax refund rules, including the CNY 20,000 cash line, the CNY 200 minimum and the 90-day window, read the Jiangxi tax authority’s departure-refund Q&A. | 20,000 | [jiangxi.chinatax.gov.cn](https://jiangxi.chinatax.gov.cn/art/2026/2/25/art_31172_1666768.html) | 2026-11-26 |
 ## What is *not* in this file
 
 - **Live prices or fees for a specific item on a specific day.** Those move with the market and are only authoritative inside the app at the moment of purchase.
