@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/en/life/",
   "version": "2026.11",
-  "updated": "2026-11-26",
+  "updated": "2026-11-28",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Payment, Parcel & Security Rules\", checked 2026-11-10, https://jiunotes.top/en/life/",
   "note": "Every entry carries the official source that states it and the date it was last checked. Rules and figures change without announcement; compare checked_on against your travel date.",
-  "count": 83,
+  "count": 87,
   "facts": [
     {
       "id": 1,
@@ -1252,6 +1252,74 @@
       "checked_on": "2026-11-26",
       "recheck_by": "2027-02-24",
       "added_from": "article-sync"
+    },
+    {
+      "id": 84,
+      "topic": "duty_free",
+      "claim_en": "Since 4 February 2026, residents of the Hainan Free Trade Port can buy imported goods duty-free at designated shops under Finance/Tax/Customs Circular No. 6 of 2026: no import tariff, import-stage VAT or consumption tax, and no domestic VAT or consumption tax. The allowance is CNY 10,000 per person per year with no limit on the number of purchases, covering 202 categories of everyday goods such as food, drinks and household products.",
+      "claim_zh": "自 2026 年 2 月 4 日起，海南自由贸易港岛内居民在指定场所购买进境商品，在免税额度和清单内免征进口关税、进口环节及国内环节增值税和消费税（财关税〔2026〕6号）：每人每年免税购买金额累计不超过 1 万元人民币、不限次数，涵盖食品饮料、日化用品等 202 项居民刚需品类。",
+      "value": "CNY 10,000 per person per year; 202 categories",
+      "unit": "Hainan resident zero-tariff allowance",
+      "figure": "CNY 10,000 per person per year; 202 categories Hainan resident zero-tariff allowance",
+      "source": {
+        "name": "State Taxation Administration, Hainan — \"Experiencing duty-free life in the Hainan Free Trade Port\" (中国税务报, 2026-03-20)",
+        "url": "https://hainan.chinatax.gov.cn/ssxc_1_7/20164146.html"
+      },
+      "checked_on": "2026-11-27",
+      "recheck_by": "2027-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 390
+    },
+    {
+      "id": 85,
+      "topic": "duty_free",
+      "claim_en": "Imported exhibits sold within the China International Consumer Products Expo in Hainan are exempt from import tariff, import-stage VAT and consumption tax up to the published per-category limits, under Finance/Tax/Customs Circular No. 32 of 2021. Exhibits sold above the limit, or not re-exported after the expo, are taxed normally.",
+      "claim_zh": "根据财关税〔2021〕32号，中国国际消费品博览会展期内销售的规定上限以内的进口展品，免征进口关税、进口环节增值税和消费税；超出免税限额销售的展品，以及展期结束后未销售且不退运出境的展品，照章征税。",
+      "value": "exempt up to published per-category limits at the expo",
+      "unit": "exhibit duty-free rule",
+      "figure": "exempt up to published per-category limits at the expo exhibit duty-free rule",
+      "source": {
+        "name": "State Taxation Administration, Hainan — \"Experiencing duty-free life in the Hainan Free Trade Port\" (中国税务报, 2026-03-20)",
+        "url": "https://hainan.chinatax.gov.cn/ssxc_1_7/20164146.html"
+      },
+      "checked_on": "2026-11-27",
+      "recheck_by": "2027-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 391
+    },
+    {
+      "id": 86,
+      "topic": "duty_free",
+      "claim_en": "Under Finance/Tax/Customs Circular No. 21 of 2024, qualified medical institutions in the Boao Lecheng pilot zone may import specified drugs and medical devices free of import tariff and import-stage VAT; the benefit belongs to the institution, not the individual, and patients must be treated at a qualified institution inside the zone.",
+      "claim_zh": "根据财关税〔2024〕21号，博鳌乐城先行区内经认定的医疗机构进口规定的药品、医疗器械，免征进口关税和进口环节增值税；享惠主体是机构而非个人，患者须在区内合规医疗机构诊疗。",
+      "value": "import tariff + import-stage VAT exempt for qualified institutions",
+      "unit": "Lecheng zero-tariff rule",
+      "figure": "import tariff + import-stage VAT exempt for qualified institutions Lecheng zero-tariff rule",
+      "source": {
+        "name": "State Taxation Administration, Hainan — \"Experiencing duty-free life in the Hainan Free Trade Port\" (中国税务报, 2026-03-20)",
+        "url": "https://hainan.chinatax.gov.cn/ssxc_1_7/20164146.html"
+      },
+      "checked_on": "2026-11-27",
+      "recheck_by": "2027-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 392
+    },
+    {
+      "id": 87,
+      "topic": "accommodation",
+      "claim_en": "Hotels in China must register every guest, check the guest's identity document and record the required details. For overseas guests, the hotel must submit the accommodation registration form to the local public security organ within 24 hours.",
+      "claim_zh": "旅馆接待旅客住宿必须登记：查验旅客身份证件，按规定项目如实登记；接待境外旅客，旅馆还应当在 24 小时内向当地公安机关报送住宿登记表。",
+      "value": "24 hours",
+      "unit": "hotel registration duty",
+      "figure": "24 hours hotel registration duty",
+      "source": {
+        "name": "State Council — Measures for the Public Security Administration of the Hotel Industry (State Council Decree No. 752 of 2022, Art. 6) (国务院《旅馆业治安管理办法》2022年修订，第六条)",
+        "url": "https://scjgj.yibin.gov.cn/xbsy/xxfb/flfggz/202411/t20241128_2067601.html"
+      },
+      "checked_on": "2026-11-27",
+      "recheck_by": "2029-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 401
     }
   ]
 }
